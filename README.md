@@ -161,23 +161,27 @@ TVtools/
 
 To create a standalone executable for sharing with the crypto community:
 
-### Prerequisites
+### Quick Start
+
+**macOS/Linux:**
 ```bash
-# Install PyInstaller
-pip install pyinstaller
+git clone https://github.com/splatthy/TVTools.git
+cd TVTools
+./setup.sh
+./build.sh
 ```
 
-### Build Process
-```bash
-# 1. Activate virtual environment
-source venv/bin/activate
-
-# 2. Install build dependencies
-pip install -r requirements_minimal.txt
-
-# 3. Run the build script
-python build_executable.py
+**Windows:**
+```cmd
+git clone https://github.com/splatthy/TVTools.git
+cd TVTools
+setup.bat
+build.bat
 ```
+
+### Detailed Instructions
+
+For complete platform-specific build instructions, see **[BUILD_INSTRUCTIONS.md](BUILD_INSTRUCTIONS.md)**
 
 ### Output
 The build creates:
