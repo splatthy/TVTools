@@ -1,0 +1,3436 @@
+{
+  "name": "TradingView_Crypto_Screener",
+  "created_at": "2025-07-28T19:59:17.781199",
+  "symbols": [
+    {
+      "symbol": "ETHUSDT.P",
+      "exchange": "BINANCE",
+      "price": 3784.38,
+      "volume": 579458039.8213799,
+      "change_percent": -2.1886453040273306
+    },
+    {
+      "symbol": "BTCUSDT.P",
+      "exchange": "BINANCE",
+      "price": 117938.9,
+      "volume": 319144324.44541156,
+      "change_percent": -1.2634776107782473
+    },
+    {
+      "symbol": "XRPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 3.1119,
+      "volume": 287682095.74450105,
+      "change_percent": -3.85874938210579
+    },
+    {
+      "symbol": "DOGEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.22527,
+      "volume": 126691713.81680156,
+      "change_percent": -6.359895248784141
+    },
+    {
+      "symbol": "SOLUSDT.P",
+      "exchange": "BINANCE",
+      "price": 182.43,
+      "volume": 126297457.292802,
+      "change_percent": -3.163649875258761
+    },
+    {
+      "symbol": "SUIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 3.8979,
+      "volume": 63043621.894901,
+      "change_percent": -9.895977808599161
+    },
+    {
+      "symbol": "1000BONKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.032024,
+      "volume": 59724526.6720008,
+      "change_percent": -5.03247234660895
+    },
+    {
+      "symbol": "PEPEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.1849e-05,
+      "volume": 43412723.07020084,
+      "change_percent": -7.292074172599958
+    },
+    {
+      "symbol": "VINEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.14159,
+      "volume": 35411559.36920053,
+      "change_percent": 2.5123081378511447
+    },
+    {
+      "symbol": "ADAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.7904,
+      "volume": 26847049.8637001,
+      "change_percent": -4.931440942987736
+    },
+    {
+      "symbol": "FARTCOINUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.1492,
+      "volume": 25201652.79460005,
+      "change_percent": -14.455858270061034
+    },
+    {
+      "symbol": "PENGUUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.04021,
+      "volume": 20394949.0418,
+      "change_percent": -6.664190710522036
+    },
+    {
+      "symbol": "LTCUSDT.P",
+      "exchange": "BINANCE",
+      "price": 108.65,
+      "volume": 17712948.6281,
+      "change_percent": -5.233318796336676
+    },
+    {
+      "symbol": "BNBUSDT.P",
+      "exchange": "BINANCE",
+      "price": 823.02,
+      "volume": 15593985.3219,
+      "change_percent": -2.4996446002938
+    },
+    {
+      "symbol": "ENAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.6319,
+      "volume": 15464813.0711,
+      "change_percent": -5.602031670152372
+    },
+    {
+      "symbol": "AVAXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 25.101,
+      "volume": 14679026.9554,
+      "change_percent": -3.550432276657059
+    },
+    {
+      "symbol": "HYPEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 43.67,
+      "volume": 14608408.6284,
+      "change_percent": 0.07333058343646268
+    },
+    {
+      "symbol": "HBARUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.27077,
+      "volume": 14554475.6538,
+      "change_percent": -7.101931588156585
+    },
+    {
+      "symbol": "TRXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3221,
+      "volume": 13673020.6641,
+      "change_percent": 0.728648716264815
+    },
+    {
+      "symbol": "CRVUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.0066,
+      "volume": 12648309.5424,
+      "change_percent": -1.6704112532968756
+    },
+    {
+      "symbol": "LINKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 18.064,
+      "volume": 12146690.7991,
+      "change_percent": -6.029235811267747
+    },
+    {
+      "symbol": "XLMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.41786,
+      "volume": 11456759.855,
+      "change_percent": -5.847096730582901
+    },
+    {
+      "symbol": "AAVEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 288.38,
+      "volume": 9138204.1206,
+      "change_percent": -5.337447478991594
+    },
+    {
+      "symbol": "ZORAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.07593,
+      "volume": 8579000.4692,
+      "change_percent": -10.98475967174678
+    },
+    {
+      "symbol": "SPXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 2.1333,
+      "volume": 7949941.397,
+      "change_percent": -0.5269047841089185
+    },
+    {
+      "symbol": "TAOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 400.86,
+      "volume": 7101241.0663,
+      "change_percent": -6.474417302442779
+    },
+    {
+      "symbol": "ONDOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.988,
+      "volume": 7048815.10345,
+      "change_percent": -7.421289355322333
+    },
+    {
+      "symbol": "PUMPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.002445,
+      "volume": 6867161.305,
+      "change_percent": -7.140144322066076
+    },
+    {
+      "symbol": "WIFUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.0232,
+      "volume": 5780972.206,
+      "change_percent": -8.85444503830393
+    },
+    {
+      "symbol": "TURBOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.00488,
+      "volume": 5242721.74,
+      "change_percent": -6.5849923430321695
+    },
+    {
+      "symbol": "INJUSDT.P",
+      "exchange": "BINANCE",
+      "price": 14.523,
+      "volume": 4821680.4595,
+      "change_percent": -5.774346331019273
+    },
+    {
+      "symbol": "SEIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3193,
+      "volume": 4672936.449,
+      "change_percent": -7.716763005780349
+    },
+    {
+      "symbol": "BCHUSDT.P",
+      "exchange": "BINANCE",
+      "price": 571.4,
+      "volume": 4477505.053,
+      "change_percent": -3.0045832626039797
+    },
+    {
+      "symbol": "NEARUSDT.P",
+      "exchange": "BINANCE",
+      "price": 2.737,
+      "volume": 4411806.571,
+      "change_percent": -7.502534640081107
+    },
+    {
+      "symbol": "OPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.7566,
+      "volume": 3191487.7729,
+      "change_percent": 1.898989898989899
+    },
+    {
+      "symbol": "FETUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.7155,
+      "volume": 3113027.7945,
+      "change_percent": -5.194116867629523
+    },
+    {
+      "symbol": "SHIBUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.33e-05,
+      "volume": 3044142.6111,
+      "change_percent": -6.00042405823733
+    },
+    {
+      "symbol": "MKRUSDT.P",
+      "exchange": "BINANCE",
+      "price": 2163.2,
+      "volume": 2915532.8976,
+      "change_percent": -6.613710930754631
+    },
+    {
+      "symbol": "ARBUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.433,
+      "volume": 2833612.4636,
+      "change_percent": -5.849097629919544
+    },
+    {
+      "symbol": "POPCATUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3434,
+      "volume": 2824353.0575,
+      "change_percent": -10.386221294363258
+    },
+    {
+      "symbol": "JUPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.5435,
+      "volume": 2699161.5673,
+      "change_percent": -7.771932801629061
+    },
+    {
+      "symbol": "BRETTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05453,
+      "volume": 2643402.0041,
+      "change_percent": -9.131811364772535
+    },
+    {
+      "symbol": "VIRTUALUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.4463,
+      "volume": 2636041.3651,
+      "change_percent": -9.555374898380343
+    },
+    {
+      "symbol": "UNIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 10.41,
+      "volume": 2593754.0759,
+      "change_percent": -5.14806378132118
+    },
+    {
+      "symbol": "ASRUSDT.P",
+      "exchange": "BINANCE",
+      "price": 6.029,
+      "volume": 2532500.297,
+      "change_percent": 14.337189455717814
+    },
+    {
+      "symbol": "CATUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.1148e-05,
+      "volume": 2510258.488,
+      "change_percent": 11.435425829668146
+    },
+    {
+      "symbol": "HYPERUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.4938,
+      "volume": 2432606.2295,
+      "change_percent": 7.441253263707573
+    },
+    {
+      "symbol": "BANANAS31USDT.P",
+      "exchange": "BINANCE",
+      "price": 0.007846,
+      "volume": 2244970.7572,
+      "change_percent": 23.325998113800708
+    },
+    {
+      "symbol": "MOODENGUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.19059,
+      "volume": 2078652.6703,
+      "change_percent": -10.082090960558595
+    },
+    {
+      "symbol": "QNTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 121.41,
+      "volume": 1947738.705,
+      "change_percent": -7.574604141291121
+    },
+    {
+      "symbol": "APEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.6098,
+      "volume": 1925375.45964,
+      "change_percent": -5.632930981120395
+    },
+    {
+      "symbol": "GRASSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.8362,
+      "volume": 1880787.092,
+      "change_percent": -11.951142466041901
+    },
+    {
+      "symbol": "CAKEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 2.9187,
+      "volume": 1878762.3848,
+      "change_percent": -5.258545135845761
+    },
+    {
+      "symbol": "NEIROUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0004302,
+      "volume": 1877490.5811,
+      "change_percent": -9.087066779374474
+    },
+    {
+      "symbol": "ZBCNUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0044575,
+      "volume": 1820273.7648,
+      "change_percent": 6.590305841842224
+    },
+    {
+      "symbol": "PENDLEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 4.5065,
+      "volume": 1732623.4252,
+      "change_percent": 1.7590209095425107
+    },
+    {
+      "symbol": "ICPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 5.515,
+      "volume": 1695903.36516,
+      "change_percent": -4.880993446015873
+    },
+    {
+      "symbol": "SUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3149,
+      "volume": 1647425.0009,
+      "change_percent": -6.779159265837767
+    },
+    {
+      "symbol": "SYRUPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.4955,
+      "volume": 1645177.2153,
+      "change_percent": -11.889181307347602
+    },
+    {
+      "symbol": "XMRUSDT.P",
+      "exchange": "BINANCE",
+      "price": 315.03,
+      "volume": 1636323.9366,
+      "change_percent": -3.1511313330054107
+    },
+    {
+      "symbol": "ETHFIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.1562,
+      "volume": 1594106.3288,
+      "change_percent": -9.353194825558617
+    },
+    {
+      "symbol": "KASUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.09683,
+      "volume": 1553017.36851,
+      "change_percent": -7.82484531175631
+    },
+    {
+      "symbol": "AEROUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.8513,
+      "volume": 1511750.0876,
+      "change_percent": -5.453131941359399
+    },
+    {
+      "symbol": "APTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 4.629,
+      "volume": 1429496.2097,
+      "change_percent": -5.434116445352402
+    },
+    {
+      "symbol": "AI16ZUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1442,
+      "volume": 1393400.7961,
+      "change_percent": -10.490378646803228
+    },
+    {
+      "symbol": "TONUSDT.P",
+      "exchange": "BINANCE",
+      "price": 3.198,
+      "volume": 1390324.601,
+      "change_percent": -5.188259709457464
+    },
+    {
+      "symbol": "IPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 5.5599,
+      "volume": 1377228.8011,
+      "change_percent": 0.5934395976190034
+    },
+    {
+      "symbol": "USELESSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3415,
+      "volume": 1328969.884,
+      "change_percent": -6.412715812551377
+    },
+    {
+      "symbol": "TIAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.885,
+      "volume": 1308234.184,
+      "change_percent": -8.628211342704805
+    },
+    {
+      "symbol": "DOTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 3.947,
+      "volume": 1299405.5641,
+      "change_percent": -6.8004722550177155
+    },
+    {
+      "symbol": "TRUMPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 9.689,
+      "volume": 1290369.0858,
+      "change_percent": -5.968555900621119
+    },
+    {
+      "symbol": "SANDUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2968,
+      "volume": 1249432.099,
+      "change_percent": -7.191994996873036
+    },
+    {
+      "symbol": "GOATUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.10883,
+      "volume": 1160384.1643,
+      "change_percent": -12.942964562834982
+    },
+    {
+      "symbol": "PNUTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2594,
+      "volume": 1131824.9199,
+      "change_percent": -9.80528511821975
+    },
+    {
+      "symbol": "THETAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.8604,
+      "volume": 1115913.41,
+      "change_percent": -7.523645743766116
+    },
+    {
+      "symbol": "CHILLGUYUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.06454,
+      "volume": 1087189.2413,
+      "change_percent": -11.589041095890405
+    },
+    {
+      "symbol": "CUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.38014,
+      "volume": 1077798.9483,
+      "change_percent": 9.743352868154394
+    },
+    {
+      "symbol": "ATOMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 4.624,
+      "volume": 1047012.891,
+      "change_percent": -5.031834052166772
+    },
+    {
+      "symbol": "ALGOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.264,
+      "volume": 1029469.43,
+      "change_percent": -7.53064798598948
+    },
+    {
+      "symbol": "SPKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.09045,
+      "volume": 966759.6969,
+      "change_percent": -8.228490259740253
+    },
+    {
+      "symbol": "DEEPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1736,
+      "volume": 956528.3566,
+      "change_percent": -9.738470337440855
+    },
+    {
+      "symbol": "DEGENUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.003907,
+      "volume": 935911.8795,
+      "change_percent": -9.914687572054412
+    },
+    {
+      "symbol": "AIXBTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.13756,
+      "volume": 903765.2393,
+      "change_percent": -8.997089177030961
+    },
+    {
+      "symbol": "1000FLOKIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.11907,
+      "volume": 882962.83252,
+      "change_percent": -8.153347732181434
+    },
+    {
+      "symbol": "LDOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.069,
+      "volume": 874572.3622,
+      "change_percent": -6.24451850552536
+    },
+    {
+      "symbol": "DIAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.8375,
+      "volume": 872491.054,
+      "change_percent": -10.533062706975752
+    },
+    {
+      "symbol": "SUPERUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.8363,
+      "volume": 857190.0156,
+      "change_percent": -1.3680858591815006
+    },
+    {
+      "symbol": "CROSSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.33561,
+      "volume": 829689.0692,
+      "change_percent": 2.796495956873324
+    },
+    {
+      "symbol": "1000000MOGUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.4694,
+      "volume": 825403.7077,
+      "change_percent": -12.353116611989266
+    },
+    {
+      "symbol": "VETUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.024673,
+      "volume": 822220.82044,
+      "change_percent": -6.25403700748508
+    },
+    {
+      "symbol": "COTIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05792,
+      "volume": 815185.08758,
+      "change_percent": -4.6898140529866685
+    },
+    {
+      "symbol": "JELLYJELLYUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.022233,
+      "volume": 807046.50873,
+      "change_percent": 2.399594694178338
+    },
+    {
+      "symbol": "NEWTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3827,
+      "volume": 788242.9659,
+      "change_percent": -8.902642228040941
+    },
+    {
+      "symbol": "BSVUSDT.P",
+      "exchange": "BINANCE",
+      "price": 28.38,
+      "volume": 778914.162,
+      "change_percent": -6.3057114559260485
+    },
+    {
+      "symbol": "CFXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.19454,
+      "volume": 754848.18672,
+      "change_percent": 3.9487042479294576
+    },
+    {
+      "symbol": "OMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2609,
+      "volume": 751329.23644,
+      "change_percent": -7.0206699928724134
+    },
+    {
+      "symbol": "RENDERUSDT.P",
+      "exchange": "BINANCE",
+      "price": 4.048,
+      "volume": 746910.5507,
+      "change_percent": -6.491106491106484
+    },
+    {
+      "symbol": "WLDUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.1126,
+      "volume": 738767.4783,
+      "change_percent": -8.510813255488852
+    },
+    {
+      "symbol": "JTOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.8997,
+      "volume": 732136.0744,
+      "change_percent": -6.178387988937178
+    },
+    {
+      "symbol": "ENSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 28.785,
+      "volume": 729199.7075,
+      "change_percent": -7.4824028541124274
+    },
+    {
+      "symbol": "ETCUSDT.P",
+      "exchange": "BINANCE",
+      "price": 21.82,
+      "volume": 724912.084,
+      "change_percent": -6.231198968629133
+    },
+    {
+      "symbol": "ORDIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 10.676,
+      "volume": 701859.6825,
+      "change_percent": -8.478354050578647
+    },
+    {
+      "symbol": "CHZUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.04114,
+      "volume": 696975.0272,
+      "change_percent": -6.965174129353232
+    },
+    {
+      "symbol": "SUSHIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.854,
+      "volume": 687388.5144,
+      "change_percent": -8.604452054794523
+    },
+    {
+      "symbol": "STXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.7892,
+      "volume": 664418.4076,
+      "change_percent": -8.221886265844864
+    },
+    {
+      "symbol": "GALAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01688,
+      "volume": 651350.3249,
+      "change_percent": -7.7595628415300615
+    },
+    {
+      "symbol": "MAVUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.04824,
+      "volume": 650639.57363,
+      "change_percent": -9.54434652165761
+    },
+    {
+      "symbol": "RAYUSDT.P",
+      "exchange": "BINANCE",
+      "price": 3.1098,
+      "volume": 639205.7907,
+      "change_percent": 0.016080789888390404
+    },
+    {
+      "symbol": "RESOLVUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.20398,
+      "volume": 637990.6717,
+      "change_percent": -7.408079891057649
+    },
+    {
+      "symbol": "ZENUSDT.P",
+      "exchange": "BINANCE",
+      "price": 8.421,
+      "volume": 631735.883,
+      "change_percent": -6.109934217861524
+    },
+    {
+      "symbol": "DOLOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.172364,
+      "volume": 625098.17459,
+      "change_percent": 2.6990955348737313
+    },
+    {
+      "symbol": "XIONUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.3565,
+      "volume": 620354.7644,
+      "change_percent": -4.0800452552679864
+    },
+    {
+      "symbol": "SIRENUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0576,
+      "volume": 601320.1305,
+      "change_percent": 8.22998872604283
+    },
+    {
+      "symbol": "SOPHUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.037566,
+      "volume": 596808.15435,
+      "change_percent": -7.319961512841382
+    },
+    {
+      "symbol": "CVXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 5.311,
+      "volume": 594303.037,
+      "change_percent": -6.116316068587592
+    },
+    {
+      "symbol": "TAGUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0007822,
+      "volume": 589791.8264,
+      "change_percent": null
+    },
+    {
+      "symbol": "MUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3192,
+      "volume": 588459.434,
+      "change_percent": -0.4056162246489932
+    },
+    {
+      "symbol": "EPICUSDT.P",
+      "exchange": "BINANCE",
+      "price": 2.0636,
+      "volume": 585517.8611,
+      "change_percent": -8.714500575068568
+    },
+    {
+      "symbol": "LAUNCHCOINUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.08375,
+      "volume": 584345.9561,
+      "change_percent": 0.38355507611171136
+    },
+    {
+      "symbol": "WALUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.44,
+      "volume": 573970.3301,
+      "change_percent": -8.33333333333333
+    },
+    {
+      "symbol": "GRTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.10259,
+      "volume": 573026.1188,
+      "change_percent": -6.549462561486612
+    },
+    {
+      "symbol": "JASMYUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.016275,
+      "volume": 561825.074757,
+      "change_percent": -7.727633518539514
+    },
+    {
+      "symbol": "COMPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 48.27,
+      "volume": 537924.703,
+      "change_percent": -5.519671168526131
+    },
+    {
+      "symbol": "CROUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.13729,
+      "volume": 537373.8525,
+      "change_percent": -5.369451337193267
+    },
+    {
+      "symbol": "FILUSDT.P",
+      "exchange": "BINANCE",
+      "price": 2.598,
+      "volume": 523125.8506,
+      "change_percent": -5.664488017429199
+    },
+    {
+      "symbol": "RUNEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.407,
+      "volume": 521889.669,
+      "change_percent": -6.1999999999999975
+    },
+    {
+      "symbol": "DOGUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.003352,
+      "volume": 512586.737,
+      "change_percent": -8.315098468271335
+    },
+    {
+      "symbol": "COWUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.4026,
+      "volume": 505049.141,
+      "change_percent": -3.0346820809248554
+    },
+    {
+      "symbol": "ERAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.2688,
+      "volume": 503172.8636,
+      "change_percent": -9.539426778839308
+    },
+    {
+      "symbol": "POLUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.22591,
+      "volume": 501763.2112,
+      "change_percent": -5.886518913514416
+    },
+    {
+      "symbol": "LISTAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3047,
+      "volume": 493232.462,
+      "change_percent": 1.2292358803986834
+    },
+    {
+      "symbol": "CETUSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.12408,
+      "volume": 492378.9735,
+      "change_percent": -10.80439939616132
+    },
+    {
+      "symbol": "ILVUSDT.P",
+      "exchange": "BINANCE",
+      "price": 14.686,
+      "volume": 487033.9985,
+      "change_percent": 2.5057583583443845
+    },
+    {
+      "symbol": "SAHARAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.08621,
+      "volume": 472615.9556,
+      "change_percent": -7.321006235218243
+    },
+    {
+      "symbol": "BANANAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 26.911,
+      "volume": 451957.7213,
+      "change_percent": -7.414160875249425
+    },
+    {
+      "symbol": "KAITOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.2775,
+      "volume": 450711.1233,
+      "change_percent": -6.348508173887544
+    },
+    {
+      "symbol": "XAUTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 3314.0,
+      "volume": 447755.711,
+      "change_percent": -0.623725560753274
+    },
+    {
+      "symbol": "MEWUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.003397,
+      "volume": 444768.7552,
+      "change_percent": -8.040064970221982
+    },
+    {
+      "symbol": "MNTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.795,
+      "volume": 440806.9478,
+      "change_percent": -4.124457308248916
+    },
+    {
+      "symbol": "TRBUSDT.P",
+      "exchange": "BINANCE",
+      "price": 39.38,
+      "volume": 432002.104,
+      "change_percent": -6.770833333333331
+    },
+    {
+      "symbol": "MYXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.10807,
+      "volume": 419095.0203,
+      "change_percent": -6.075091256735613
+    },
+    {
+      "symbol": "DUCKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.005409,
+      "volume": 418528.5148,
+      "change_percent": 13.777871266302046
+    },
+    {
+      "symbol": "ETHBTCUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.032077,
+      "volume": 417464.9023,
+      "change_percent": -1.088498304039467
+    },
+    {
+      "symbol": "INITUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.4154,
+      "volume": 416226.567,
+      "change_percent": -7.893569844789361
+    },
+    {
+      "symbol": "BTCDOMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 4386.3,
+      "volume": 411294.7334,
+      "change_percent": 1.9121747211895954
+    },
+    {
+      "symbol": "XTZUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.8585,
+      "volume": 399740.0722,
+      "change_percent": -4.7803904170363705
+    },
+    {
+      "symbol": "EIGENUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.2915,
+      "volume": 395279.1395,
+      "change_percent": -8.430232558139535
+    },
+    {
+      "symbol": "ARUSDT.P",
+      "exchange": "BINANCE",
+      "price": 7.333,
+      "volume": 383216.6755,
+      "change_percent": -6.965237249429072
+    },
+    {
+      "symbol": "NEOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 6.363,
+      "volume": 374492.8173,
+      "change_percent": -6.618726152039913
+    },
+    {
+      "symbol": "WAVESUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.0823,
+      "volume": 344052.3986,
+      "change_percent": -5.558464223385679
+    },
+    {
+      "symbol": "B3USDT.P",
+      "exchange": "BINANCE",
+      "price": 0.002829,
+      "volume": 337737.5084,
+      "change_percent": -2.8836251287332604
+    },
+    {
+      "symbol": "ORCAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 2.447,
+      "volume": 337520.238,
+      "change_percent": -4.600389863547754
+    },
+    {
+      "symbol": "1000CHEEMSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0013373,
+      "volume": 335123.0399,
+      "change_percent": -3.2694394213381566
+    },
+    {
+      "symbol": "SQDUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.18337,
+      "volume": 332473.9569,
+      "change_percent": 25.561490002738978
+    },
+    {
+      "symbol": "DRIFTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.5644,
+      "volume": 322934.4123,
+      "change_percent": -8.15296989422295
+    },
+    {
+      "symbol": "DMCUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.004327,
+      "volume": 322337.2014,
+      "change_percent": 3.541517109356298
+    },
+    {
+      "symbol": "TSTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.04246,
+      "volume": 321655.4791,
+      "change_percent": -2.2784810126582387
+    },
+    {
+      "symbol": "FXSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 3.251,
+      "volume": 319785.7694,
+      "change_percent": -8.577052868391455
+    },
+    {
+      "symbol": "PROMPTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.129,
+      "volume": 307825.2706,
+      "change_percent": -11.577215710466783
+    },
+    {
+      "symbol": "ANIMEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01811,
+      "volume": 306311.9208,
+      "change_percent": -8.535353535353538
+    },
+    {
+      "symbol": "IOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.6911,
+      "volume": 303423.3976,
+      "change_percent": -6.7341430499325154
+    },
+    {
+      "symbol": "FIDAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.10768,
+      "volume": 301428.269,
+      "change_percent": -3.313280057466103
+    },
+    {
+      "symbol": "COOKIEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1644,
+      "volume": 295567.334,
+      "change_percent": -10.74918566775245
+    },
+    {
+      "symbol": "SXPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1967,
+      "volume": 293684.162,
+      "change_percent": -5.250481695568397
+    },
+    {
+      "symbol": "AXLUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3793,
+      "volume": 288813.3419,
+      "change_percent": -8.40376720598889
+    },
+    {
+      "symbol": "PONKEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.12991,
+      "volume": 285426.1506,
+      "change_percent": -8.041339279394075
+    },
+    {
+      "symbol": "MOCAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.08485,
+      "volume": 282816.5223,
+      "change_percent": -7.034074723348318
+    },
+    {
+      "symbol": "PLUMEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.10313,
+      "volume": 282050.8226,
+      "change_percent": -6.143065161994909
+    },
+    {
+      "symbol": "TAIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.06593,
+      "volume": 280908.2784,
+      "change_percent": -13.862032923961321
+    },
+    {
+      "symbol": "SONICUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.23165,
+      "volume": 279616.71746,
+      "change_percent": -7.929252782193958
+    },
+    {
+      "symbol": "BEAMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.007871,
+      "volume": 278730.079564,
+      "change_percent": -9.963395104095175
+    },
+    {
+      "symbol": "MUBARAKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.04293,
+      "volume": 277886.412,
+      "change_percent": -6.0612691466083035
+    },
+    {
+      "symbol": "REZUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01311,
+      "volume": 277666.7807,
+      "change_percent": -14.313725490196076
+    },
+    {
+      "symbol": "BUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.46783,
+      "volume": 274213.3741,
+      "change_percent": 4.017698327997161
+    },
+    {
+      "symbol": "GRIFFAINUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.04169,
+      "volume": 272879.161,
+      "change_percent": -8.333333333333337
+    },
+    {
+      "symbol": "DYDXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.6003,
+      "volume": 272245.1006,
+      "change_percent": -7.560825377271333
+    },
+    {
+      "symbol": "MAGICUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.14764,
+      "volume": 268011.72942,
+      "change_percent": -7.707695192848664
+    },
+    {
+      "symbol": "RSRUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.008336,
+      "volume": 250851.5212,
+      "change_percent": -7.808007078080072
+    },
+    {
+      "symbol": "HAEDALUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.162146,
+      "volume": 249616.68533,
+      "change_percent": -6.791752174337922
+    },
+    {
+      "symbol": "BERAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 2.095,
+      "volume": 248011.8889,
+      "change_percent": -7.992973210364511
+    },
+    {
+      "symbol": "TACUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01063,
+      "volume": 246645.167,
+      "change_percent": -13.0114566284779
+    },
+    {
+      "symbol": "OBOLUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.12274,
+      "volume": 242655.20229,
+      "change_percent": 5.32006178136262
+    },
+    {
+      "symbol": "SHELLUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1779,
+      "volume": 234892.4474,
+      "change_percent": -3.524945770065079
+    },
+    {
+      "symbol": "BAKEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0957,
+      "volume": 229632.9252,
+      "change_percent": -7.5362318840579725
+    },
+    {
+      "symbol": "BOMEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.001993,
+      "volume": 220602.05,
+      "change_percent": -9.491371480472298
+    },
+    {
+      "symbol": "AIOZUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3912,
+      "volume": 211352.049,
+      "change_percent": -6.768350810295515
+    },
+    {
+      "symbol": "VANAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 4.701,
+      "volume": 211264.634,
+      "change_percent": -8.647493198600861
+    },
+    {
+      "symbol": "TUTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.06751,
+      "volume": 210309.2624,
+      "change_percent": -13.736263736263732
+    },
+    {
+      "symbol": "PYTHUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.12682,
+      "volume": 198837.8011,
+      "change_percent": -8.624540672959153
+    },
+    {
+      "symbol": "VTHOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.001994,
+      "volume": 198151.0212,
+      "change_percent": -7.126222636236605
+    },
+    {
+      "symbol": "VELVETUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05642,
+      "volume": 197392.4143,
+      "change_percent": -5.032822757111597
+    },
+    {
+      "symbol": "GIGAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01917,
+      "volume": 193589.966,
+      "change_percent": -7.96927508401345
+    },
+    {
+      "symbol": "BBUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1091,
+      "volume": 193187.6135,
+      "change_percent": -10.661644284310517
+    },
+    {
+      "symbol": "PEOPLEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.02045,
+      "volume": 189740.57,
+      "change_percent": -9.07069808803913
+    },
+    {
+      "symbol": "ATHUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.03439,
+      "volume": 189144.967,
+      "change_percent": -0.6069364161849764
+    },
+    {
+      "symbol": "PROMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 8.958,
+      "volume": 187618.095,
+      "change_percent": -1.959067527634894
+    },
+    {
+      "symbol": "ALTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.03637,
+      "volume": 185171.75915,
+      "change_percent": -11.894379844961236
+    },
+    {
+      "symbol": "REIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.02019,
+      "volume": 184778.836,
+      "change_percent": -7.639524245196712
+    },
+    {
+      "symbol": "SIGNUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0776,
+      "volume": 184184.265,
+      "change_percent": -1.622718052738341
+    },
+    {
+      "symbol": "SANTOSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 2.373,
+      "volume": 181329.753,
+      "change_percent": -10.147671336614911
+    },
+    {
+      "symbol": "OMNIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 2.527,
+      "volume": 181130.1844,
+      "change_percent": -10.007122507122498
+    },
+    {
+      "symbol": "IMXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.5579,
+      "volume": 180162.187,
+      "change_percent": -6.923590256923605
+    },
+    {
+      "symbol": "MOVRUSDT.P",
+      "exchange": "BINANCE",
+      "price": 6.4,
+      "volume": 177602.8457,
+      "change_percent": 1.2177763719753274
+    },
+    {
+      "symbol": "ZETAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2093,
+      "volume": 175102.277,
+      "change_percent": -8.68237347294938
+    },
+    {
+      "symbol": "PRIMEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 2.125,
+      "volume": 173221.3505,
+      "change_percent": -6.346408109299256
+    },
+    {
+      "symbol": "UMAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.313,
+      "volume": 168078.1352,
+      "change_percent": -6.74715909090909
+    },
+    {
+      "symbol": "HUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05033,
+      "volume": 167967.3392,
+      "change_percent": -3.025048169556844
+    },
+    {
+      "symbol": "ZROUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.852,
+      "volume": 163182.843,
+      "change_percent": -8.043694141012896
+    },
+    {
+      "symbol": "METISUSDT.P",
+      "exchange": "BINANCE",
+      "price": 16.83,
+      "volume": 161785.132,
+      "change_percent": -8.582292232482356
+    },
+    {
+      "symbol": "MANAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3026,
+      "volume": 161216.056,
+      "change_percent": -7.4617737003058195
+    },
+    {
+      "symbol": "JOEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1715,
+      "volume": 157924.908,
+      "change_percent": -6.99566160520607
+    },
+    {
+      "symbol": "AIOTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.43288,
+      "volume": 157436.181,
+      "change_percent": -0.3108951477327725
+    },
+    {
+      "symbol": "MORPHOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.76,
+      "volume": 156840.3741,
+      "change_percent": -10.295616717635065
+    },
+    {
+      "symbol": "BROCCOLI714USDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05169,
+      "volume": 153508.551,
+      "change_percent": -1.823361823361828
+    },
+    {
+      "symbol": "GLMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2799,
+      "volume": 152355.88,
+      "change_percent": -9.942084942084954
+    },
+    {
+      "symbol": "VANRYUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.03454,
+      "volume": 151928.7051,
+      "change_percent": -8.648505686326374
+    },
+    {
+      "symbol": "ZECUSDT.P",
+      "exchange": "BINANCE",
+      "price": 40.51,
+      "volume": 149949.752,
+      "change_percent": -3.132472501195606
+    },
+    {
+      "symbol": "BIGTIMEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.06432,
+      "volume": 149786.29624,
+      "change_percent": -8.44128113879004
+    },
+    {
+      "symbol": "HFTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.08367,
+      "volume": 148779.28286,
+      "change_percent": -7.218895542248838
+    },
+    {
+      "symbol": "ROSEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.02718,
+      "volume": 147502.00278,
+      "change_percent": -6.243532252500859
+    },
+    {
+      "symbol": "KDAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.4429,
+      "volume": 147361.7928,
+      "change_percent": -9.722788422339985
+    },
+    {
+      "symbol": "HNTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 3.491,
+      "volume": 147353.677,
+      "change_percent": -1.2446958981612457
+    },
+    {
+      "symbol": "MOVEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1433,
+      "volume": 146412.885,
+      "change_percent": -5.162144275314362
+    },
+    {
+      "symbol": "CVCUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.10171,
+      "volume": 145940.2421,
+      "change_percent": -5.989462981791293
+    },
+    {
+      "symbol": "UXLINKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3598,
+      "volume": 145034.3404,
+      "change_percent": -6.5697221500908825
+    },
+    {
+      "symbol": "PARTIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2002,
+      "volume": 144717.8756,
+      "change_percent": -9.452736318407961
+    },
+    {
+      "symbol": "OGNUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0615,
+      "volume": 143450.406,
+      "change_percent": -5.092592592592589
+    },
+    {
+      "symbol": "IOTAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.203,
+      "volume": 142499.172,
+      "change_percent": -8.310749774164409
+    },
+    {
+      "symbol": "AUCTIONUSDT.P",
+      "exchange": "BINANCE",
+      "price": 11.69,
+      "volume": 139447.4021,
+      "change_percent": 9.37499999999999
+    },
+    {
+      "symbol": "HUMAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.037801,
+      "volume": 139151.87545,
+      "change_percent": -1.6265028886691315
+    },
+    {
+      "symbol": "DASHUSDT.P",
+      "exchange": "BINANCE",
+      "price": 21.69,
+      "volume": 137098.043,
+      "change_percent": -6.427955133735972
+    },
+    {
+      "symbol": "USUALUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.085,
+      "volume": 136192.8675,
+      "change_percent": -10.2428722280887
+    },
+    {
+      "symbol": "FWOGUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.04287,
+      "volume": 134933.9214,
+      "change_percent": -12.367130008176614
+    },
+    {
+      "symbol": "SYNUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1308,
+      "volume": 134107.976,
+      "change_percent": -8.081517919887569
+    },
+    {
+      "symbol": "BROCCOLIF3BUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.009961,
+      "volume": 131998.0019,
+      "change_percent": -17.425184448313033
+    },
+    {
+      "symbol": "MEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.8272,
+      "volume": 131787.3893,
+      "change_percent": -8.262171453920363
+    },
+    {
+      "symbol": "VICUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.248,
+      "volume": 131198.84,
+      "change_percent": -3.3515198752922823
+    },
+    {
+      "symbol": "OGUSDT.P",
+      "exchange": "BINANCE",
+      "price": 5.036,
+      "volume": 130324.02,
+      "change_percent": -8.169219547775354
+    },
+    {
+      "symbol": "IOSTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.00389,
+      "volume": 128990.349,
+      "change_percent": -8.771106941838664
+    },
+    {
+      "symbol": "KMNOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05648,
+      "volume": 128016.0204,
+      "change_percent": -5.567630830964721
+    },
+    {
+      "symbol": "ZKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05617,
+      "volume": 126167.7952,
+      "change_percent": -7.7819734033820405
+    },
+    {
+      "symbol": "ESUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2227,
+      "volume": 125213.13,
+      "change_percent": -6.624737945492655
+    },
+    {
+      "symbol": "CYBERUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.623,
+      "volume": 124328.7323,
+      "change_percent": -8.14940577249575
+    },
+    {
+      "symbol": "ENJUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.07596,
+      "volume": 122911.03962,
+      "change_percent": -7.9495879786718335
+    },
+    {
+      "symbol": "STORJUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2798,
+      "volume": 119476.018,
+      "change_percent": -7.839262187088271
+    },
+    {
+      "symbol": "HOMEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.034163,
+      "volume": 117746.98327,
+      "change_percent": 3.596446007823633
+    },
+    {
+      "symbol": "STOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.09694,
+      "volume": 113283.1873,
+      "change_percent": -10.165878973218428
+    },
+    {
+      "symbol": "SENDUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.6541,
+      "volume": 111236.2922,
+      "change_percent": 8.546299369399268
+    },
+    {
+      "symbol": "BABYUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05561,
+      "volume": 110358.531,
+      "change_percent": -7.86944996686547
+    },
+    {
+      "symbol": "SUNUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.020167,
+      "volume": 108264.1164,
+      "change_percent": -0.04460745440126186
+    },
+    {
+      "symbol": "FUNUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01235,
+      "volume": 107360.302112,
+      "change_percent": -3.205580374637508
+    },
+    {
+      "symbol": "SWARMSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01979,
+      "volume": 107088.7809,
+      "change_percent": -12.239467849223956
+    },
+    {
+      "symbol": "FORMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 3.4093,
+      "volume": 105289.1512,
+      "change_percent": -1.9752731454859174
+    },
+    {
+      "symbol": "KSMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 15.445,
+      "volume": 104794.7825,
+      "change_percent": -5.332516089488207
+    },
+    {
+      "symbol": "AINUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.11272,
+      "volume": 103205.5377,
+      "change_percent": 2.0552286102308686
+    },
+    {
+      "symbol": "MELANIAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2274,
+      "volume": 102801.71038,
+      "change_percent": -6.841458418680876
+    },
+    {
+      "symbol": "SPELLUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0005061,
+      "volume": 101276.35045,
+      "change_percent": -5.631176580272231
+    },
+    {
+      "symbol": "COREUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.5381,
+      "volume": 101189.5705,
+      "change_percent": -4.422735346358779
+    },
+    {
+      "symbol": "WOOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0722,
+      "volume": 100803.9123,
+      "change_percent": -9.205231388329972
+    },
+    {
+      "symbol": "ARKMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.5327,
+      "volume": 100642.9431,
+      "change_percent": -8.53365384615386
+    },
+    {
+      "symbol": "THEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3898,
+      "volume": 98558.0379,
+      "change_percent": -9.179869524697121
+    },
+    {
+      "symbol": "HMSTRUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0007909,
+      "volume": 98348.3766,
+      "change_percent": -7.084116541353384
+    },
+    {
+      "symbol": "VVVUSDT.P",
+      "exchange": "BINANCE",
+      "price": 3.052,
+      "volume": 98319.391,
+      "change_percent": -10.812390414962012
+    },
+    {
+      "symbol": "AUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.54406,
+      "volume": 96671.84632,
+      "change_percent": -6.49319400522481
+    },
+    {
+      "symbol": "NOTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.002014,
+      "volume": 96475.968,
+      "change_percent": -8.28779599271402
+    },
+    {
+      "symbol": "MASKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.338,
+      "volume": 96372.468,
+      "change_percent": -5.708245243128961
+    },
+    {
+      "symbol": "PRCLUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.09542,
+      "volume": 95844.54471,
+      "change_percent": -5.56215360253365
+    },
+    {
+      "symbol": "BNTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.7649,
+      "volume": 95794.975,
+      "change_percent": -4.267834793491867
+    },
+    {
+      "symbol": "HIPPOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.001932,
+      "volume": 95612.8549,
+      "change_percent": -16.76001723395089
+    },
+    {
+      "symbol": "FLUXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2408,
+      "volume": 94936.751,
+      "change_percent": -8.196721311475407
+    },
+    {
+      "symbol": "ALPINEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.9317,
+      "volume": 94252.7755,
+      "change_percent": -6.79271708683474
+    },
+    {
+      "symbol": "AIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.12977,
+      "volume": 94049.06648,
+      "change_percent": -7.4723707664884245
+    },
+    {
+      "symbol": "DEXEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 7.334,
+      "volume": 93287.0429,
+      "change_percent": -2.1350413664264765
+    },
+    {
+      "symbol": "LPTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 6.696,
+      "volume": 92710.3811,
+      "change_percent": -7.334624965402716
+    },
+    {
+      "symbol": "AXSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 2.447,
+      "volume": 92342.8303,
+      "change_percent": -7.730015082956261
+    },
+    {
+      "symbol": "PHAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.10929,
+      "volume": 92290.8573,
+      "change_percent": -8.290677183854998
+    },
+    {
+      "symbol": "FISUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.13208,
+      "volume": 91605.27551,
+      "change_percent": -5.549199084668185
+    },
+    {
+      "symbol": "MAVIAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1643,
+      "volume": 91197.9778,
+      "change_percent": -7.800224466891131
+    },
+    {
+      "symbol": "GMTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.04796,
+      "volume": 90143.26983,
+      "change_percent": -7.5558982266769465
+    },
+    {
+      "symbol": "ONEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01101,
+      "volume": 90042.200544,
+      "change_percent": -10.203082945926097
+    },
+    {
+      "symbol": "DOODUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0039737,
+      "volume": 88961.90607,
+      "change_percent": -6.617629779334004
+    },
+    {
+      "symbol": "ARCUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.02331,
+      "volume": 86816.563,
+      "change_percent": -13.63467951092997
+    },
+    {
+      "symbol": "NEIROETHUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.11971,
+      "volume": 86512.3672,
+      "change_percent": -9.317475948791753
+    },
+    {
+      "symbol": "IDUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1809,
+      "volume": 86245.092,
+      "change_percent": -7.7511473737888785
+    },
+    {
+      "symbol": "API3USDT.P",
+      "exchange": "BINANCE",
+      "price": 0.7439,
+      "volume": 82644.412,
+      "change_percent": -6.849486601552714
+    },
+    {
+      "symbol": "CSPRUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.011254,
+      "volume": 81738.696637,
+      "change_percent": -7.889998363070876
+    },
+    {
+      "symbol": "PIXELUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0367,
+      "volume": 80500.428,
+      "change_percent": -8.5472215300274
+    },
+    {
+      "symbol": "PUFFERUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.20965,
+      "volume": 79560.8189,
+      "change_percent": -4.07668374816984
+    },
+    {
+      "symbol": "MYROUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.02095,
+      "volume": 79556.25747,
+      "change_percent": -5.20361990950227
+    },
+    {
+      "symbol": "AGLDUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.733,
+      "volume": 79242.5871,
+      "change_percent": -8.649052841475575
+    },
+    {
+      "symbol": "NXPCUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.00405,
+      "volume": 75811.30046,
+      "change_percent": -7.390839159549135
+    },
+    {
+      "symbol": "BOBAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.09782,
+      "volume": 73237.4678,
+      "change_percent": -4.67745078931982
+    },
+    {
+      "symbol": "HIFIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0861,
+      "volume": 72168.9276,
+      "change_percent": -13.118062563067607
+    },
+    {
+      "symbol": "ARPAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.02316,
+      "volume": 71518.93276,
+      "change_percent": -6.800804828973845
+    },
+    {
+      "symbol": "AKTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.314,
+      "volume": 71297.68,
+      "change_percent": -8.047585724282715
+    },
+    {
+      "symbol": "1000000BABYDOGEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0014111,
+      "volume": 71257.5845,
+      "change_percent": -5.396889246446772
+    },
+    {
+      "symbol": "1000BTTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0006864,
+      "volume": 70787.9438,
+      "change_percent": -1.0380622837370337
+    },
+    {
+      "symbol": "SLERFUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.07807,
+      "volume": 69357.1688,
+      "change_percent": -3.3547907897994604
+    },
+    {
+      "symbol": "ARKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.4624,
+      "volume": 69220.2331,
+      "change_percent": -5.748063595597229
+    },
+    {
+      "symbol": "AVAAIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.03115,
+      "volume": 68643.55,
+      "change_percent": -13.42412451361867
+    },
+    {
+      "symbol": "AGTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.005284,
+      "volume": 68226.3455,
+      "change_percent": -4.8442283450387205
+    },
+    {
+      "symbol": "RPLUSDT.P",
+      "exchange": "BINANCE",
+      "price": 6.871,
+      "volume": 67676.9873,
+      "change_percent": -11.729188078108933
+    },
+    {
+      "symbol": "ATAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0517,
+      "volume": 67582.46,
+      "change_percent": -8.495575221238935
+    },
+    {
+      "symbol": "SSVUSDT.P",
+      "exchange": "BINANCE",
+      "price": 9.353,
+      "volume": 66969.3213,
+      "change_percent": -8.6710282199004
+    },
+    {
+      "symbol": "KAIAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1598,
+      "volume": 65725.642,
+      "change_percent": -5.722713864306793
+    },
+    {
+      "symbol": "KERNELUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2015,
+      "volume": 65693.2386,
+      "change_percent": -9.438202247191008
+    },
+    {
+      "symbol": "CATIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.08261,
+      "volume": 65135.2409,
+      "change_percent": -9.289557483254635
+    },
+    {
+      "symbol": "GASUSDT.P",
+      "exchange": "BINANCE",
+      "price": 3.226,
+      "volume": 62715.419,
+      "change_percent": -6.546929316338354
+    },
+    {
+      "symbol": "ZRXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2596,
+      "volume": 62229.134,
+      "change_percent": -7.153075822603726
+    },
+    {
+      "symbol": "SXTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.08954,
+      "volume": 62040.7335,
+      "change_percent": -8.295780417861543
+    },
+    {
+      "symbol": "XAIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05404,
+      "volume": 61421.01702,
+      "change_percent": -7.243391692413323
+    },
+    {
+      "symbol": "WUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.08191,
+      "volume": 60846.8708,
+      "change_percent": -7.72783598062409
+    },
+    {
+      "symbol": "KAVAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3923,
+      "volume": 60781.4595,
+      "change_percent": -2.8238791181570524
+    },
+    {
+      "symbol": "BULLAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0642,
+      "volume": 60039.238,
+      "change_percent": -14.171122994652421
+    },
+    {
+      "symbol": "YGGUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1693,
+      "volume": 59858.2019,
+      "change_percent": -7.385120350109401
+    },
+    {
+      "symbol": "STRKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1283,
+      "volume": 59771.8855,
+      "change_percent": -6.8264342774146645
+    },
+    {
+      "symbol": "CKBUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.005751,
+      "volume": 58232.465217,
+      "change_percent": -5.783093053735256
+    },
+    {
+      "symbol": "SAGAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2686,
+      "volume": 57526.4258,
+      "change_percent": -11.760840998685937
+    },
+    {
+      "symbol": "FIOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.017,
+      "volume": 57251.001,
+      "change_percent": -7.558455682436101
+    },
+    {
+      "symbol": "YFIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 5445.0,
+      "volume": 56705.6482,
+      "change_percent": -4.757740073465104
+    },
+    {
+      "symbol": "TAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0718,
+      "volume": 54582.337,
+      "change_percent": -12.86407766990291
+    },
+    {
+      "symbol": "SNXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.6315,
+      "volume": 53896.443,
+      "change_percent": -6.981882456915598
+    },
+    {
+      "symbol": "LRCUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0875,
+      "volume": 52847.185,
+      "change_percent": -6.616862326574184
+    },
+    {
+      "symbol": "1INCHUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2696,
+      "volume": 52832.7324,
+      "change_percent": -7.353951890034356
+    },
+    {
+      "symbol": "BELUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2847,
+      "volume": 51856.9657,
+      "change_percent": -5.60344827586206
+    },
+    {
+      "symbol": "HIVEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.23041,
+      "volume": 51836.5222,
+      "change_percent": -5.847499182739453
+    },
+    {
+      "symbol": "LAYERUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.6703,
+      "volume": 51528.6655,
+      "change_percent": -6.669451406293504
+    },
+    {
+      "symbol": "VELODROMEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05447,
+      "volume": 50371.1275,
+      "change_percent": -3.2332563510392647
+    },
+    {
+      "symbol": "EGLDUSDT.P",
+      "exchange": "BINANCE",
+      "price": 15.68,
+      "volume": 49884.33,
+      "change_percent": -7.547169811320761
+    },
+    {
+      "symbol": "SOLVUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.04143,
+      "volume": 48354.4872,
+      "change_percent": -3.368008583290574
+    },
+    {
+      "symbol": "AVAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.5897,
+      "volume": 48237.1375,
+      "change_percent": -6.203276602513127
+    },
+    {
+      "symbol": "DEGOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.1516,
+      "volume": 47042.7049,
+      "change_percent": 0.7612214541954616
+    },
+    {
+      "symbol": "BLASTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.003144,
+      "volume": 46682.5347,
+      "change_percent": -7.800586510263923
+    },
+    {
+      "symbol": "NILUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3075,
+      "volume": 46649.4788,
+      "change_percent": -10.087719298245622
+    },
+    {
+      "symbol": "ACHUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.02236,
+      "volume": 45704.9409,
+      "change_percent": -4.362703165098375
+    },
+    {
+      "symbol": "DENTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.000799,
+      "volume": 45594.5831,
+      "change_percent": -7.308584686774944
+    },
+    {
+      "symbol": "BSWUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01697,
+      "volume": 45558.4579,
+      "change_percent": -3.5247299602046755
+    },
+    {
+      "symbol": "SOONUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.14236,
+      "volume": 45463.5658,
+      "change_percent": -3.3996064327882296
+    },
+    {
+      "symbol": "HOUSEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01298,
+      "volume": 45372.134,
+      "change_percent": -9.861111111111107
+    },
+    {
+      "symbol": "ACTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.04385,
+      "volume": 45242.2883,
+      "change_percent": -7.68421052631579
+    },
+    {
+      "symbol": "PORTALUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05201,
+      "volume": 45170.8032,
+      "change_percent": -6.102184509839323
+    },
+    {
+      "symbol": "ZEREBROUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0269,
+      "volume": 44540.7165,
+      "change_percent": -9.549428379287152
+    },
+    {
+      "symbol": "MTLUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.7747,
+      "volume": 44173.4202,
+      "change_percent": -6.267392619479728
+    },
+    {
+      "symbol": "ETHWUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.682,
+      "volume": 43831.3762,
+      "change_percent": -4.810413129598187
+    },
+    {
+      "symbol": "ASPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2027,
+      "volume": 42946.286,
+      "change_percent": null
+    },
+    {
+      "symbol": "LUMIAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3414,
+      "volume": 42302.5144,
+      "change_percent": -7.679826933477566
+    },
+    {
+      "symbol": "CGPTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.09796,
+      "volume": 41716.2079,
+      "change_percent": -6.553467518840026
+    },
+    {
+      "symbol": "ANKRUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01666,
+      "volume": 41601.589,
+      "change_percent": -6.299212598425194
+    },
+    {
+      "symbol": "ALCHUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.13489,
+      "volume": 41197.9634,
+      "change_percent": -4.285815653161137
+    },
+    {
+      "symbol": "DUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.03751,
+      "volume": 40892.7171,
+      "change_percent": -4.506109979633402
+    },
+    {
+      "symbol": "PIPPINUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01553,
+      "volume": 40864.0369,
+      "change_percent": -8.37758112094395
+    },
+    {
+      "symbol": "FLOCKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.17589,
+      "volume": 40680.5897,
+      "change_percent": -3.969207250491373
+    },
+    {
+      "symbol": "GUNUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.02918,
+      "volume": 40372.8429,
+      "change_percent": -10.600490196078434
+    },
+    {
+      "symbol": "ICNTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1877,
+      "volume": 38541.0041,
+      "change_percent": -1.9843342036553513
+    },
+    {
+      "symbol": "SWELLUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0097,
+      "volume": 37800.954,
+      "change_percent": -5.365853658536587
+    },
+    {
+      "symbol": "BLURUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0985,
+      "volume": 37744.5133,
+      "change_percent": -8.201304753028893
+    },
+    {
+      "symbol": "GMXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 13.15,
+      "volume": 37177.3,
+      "change_percent": -5.122655122655116
+    },
+    {
+      "symbol": "PORT3USDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0381,
+      "volume": 36753.587,
+      "change_percent": -0.5481597494126728
+    },
+    {
+      "symbol": "LQTYUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.0716,
+      "volume": 36166.18042,
+      "change_percent": -7.85898538263112
+    },
+    {
+      "symbol": "RVNUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01517,
+      "volume": 35550.7158,
+      "change_percent": -7.556368068251075
+    },
+    {
+      "symbol": "BIOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.06529,
+      "volume": 35532.13991,
+      "change_percent": -3.0586488492947184
+    },
+    {
+      "symbol": "FLOWUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.394,
+      "volume": 35318.2142,
+      "change_percent": -7.163053722902918
+    },
+    {
+      "symbol": "BMTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0828,
+      "volume": 34661.5657,
+      "change_percent": -3.8104089219330914
+    },
+    {
+      "symbol": "MLNUSDT.P",
+      "exchange": "BINANCE",
+      "price": 8.168,
+      "volume": 34555.8211,
+      "change_percent": -4.735246092838822
+    },
+    {
+      "symbol": "DYMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2729,
+      "volume": 34521.8644,
+      "change_percent": -10.082372322899511
+    },
+    {
+      "symbol": "LSKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.4547,
+      "volume": 34140.9211,
+      "change_percent": -7.393075356415478
+    },
+    {
+      "symbol": "GPSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01956,
+      "volume": 33521.5897,
+      "change_percent": -9.820193637621024
+    },
+    {
+      "symbol": "MEMEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.001767,
+      "volume": 32245.4337,
+      "change_percent": -8.540372670807454
+    },
+    {
+      "symbol": "LUNA2USDT.P",
+      "exchange": "BINANCE",
+      "price": 0.165,
+      "volume": 30966.946,
+      "change_percent": -6.621392190152794
+    },
+    {
+      "symbol": "MINAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2052,
+      "volume": 30778.0786,
+      "change_percent": -7.650765076507657
+    },
+    {
+      "symbol": "PHBUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.5793,
+      "volume": 30594.5672,
+      "change_percent": -7.148581503446061
+    },
+    {
+      "symbol": "TWTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.8006,
+      "volume": 30583.3044,
+      "change_percent": -4.803804994054696
+    },
+    {
+      "symbol": "SCRTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1875,
+      "volume": 30379.744,
+      "change_percent": -7.086223984142719
+    },
+    {
+      "symbol": "HPOS10IUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.11412,
+      "volume": 30181.8548,
+      "change_percent": -11.507444168734486
+    },
+    {
+      "symbol": "FORTHUSDT.P",
+      "exchange": "BINANCE",
+      "price": 2.725,
+      "volume": 30148.042,
+      "change_percent": -4.820118756549071
+    },
+    {
+      "symbol": "QTUMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 2.215,
+      "volume": 29905.124,
+      "change_percent": -6.658238516645611
+    },
+    {
+      "symbol": "NFPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.07263,
+      "volume": 29309.49454,
+      "change_percent": -8.028365201975433
+    },
+    {
+      "symbol": "BATUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1586,
+      "volume": 29214.592,
+      "change_percent": -5.143540669856458
+    },
+    {
+      "symbol": "OLUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.03266,
+      "volume": 29029.8291,
+      "change_percent": -10.126582278481001
+    },
+    {
+      "symbol": "ALICEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.407,
+      "volume": 28997.2047,
+      "change_percent": -7.289293849658321
+    },
+    {
+      "symbol": "WCTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.336,
+      "volume": 28742.7326,
+      "change_percent": -8.86899918633035
+    },
+    {
+      "symbol": "VOXELUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05501,
+      "volume": 27663.5642,
+      "change_percent": -5.853157624507957
+    },
+    {
+      "symbol": "QUICKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.02287,
+      "volume": 27641.526,
+      "change_percent": -6.385591485878014
+    },
+    {
+      "symbol": "TANSSIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05209,
+      "volume": 27395.589,
+      "change_percent": -5.719457013574666
+    },
+    {
+      "symbol": "ONTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1419,
+      "volume": 26896.454,
+      "change_percent": -8.510638297872335
+    },
+    {
+      "symbol": "IDOLUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01148,
+      "volume": 26513.602,
+      "change_percent": -4.966887417218541
+    },
+    {
+      "symbol": "BANKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.059451,
+      "volume": 26480.55568,
+      "change_percent": -0.07731482259610463
+    },
+    {
+      "symbol": "BDXNUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.03147,
+      "volume": 25856.7687,
+      "change_percent": -9.229881742140183
+    },
+    {
+      "symbol": "MBOXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05944,
+      "volume": 25834.6779,
+      "change_percent": -8.214947498455835
+    },
+    {
+      "symbol": "GUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01286,
+      "volume": 25495.967,
+      "change_percent": -7.945597709377236
+    },
+    {
+      "symbol": "CTKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3471,
+      "volume": 24840.5664,
+      "change_percent": -6.163828061638277
+    },
+    {
+      "symbol": "BIDUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.07639,
+      "volume": 24780.0092,
+      "change_percent": -9.29707907860366
+    },
+    {
+      "symbol": "BANUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.06418,
+      "volume": 24653.8003,
+      "change_percent": 0.832678711704639
+    },
+    {
+      "symbol": "CHESSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.07309,
+      "volume": 24509.3029,
+      "change_percent": -8.740167311774245
+    },
+    {
+      "symbol": "AERGOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.12563,
+      "volume": 24280.30954,
+      "change_percent": -6.871756856931061
+    },
+    {
+      "symbol": "COSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.003646,
+      "volume": 23597.6194,
+      "change_percent": -8.57572718154464
+    },
+    {
+      "symbol": "1000000PEIPEIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.04194,
+      "volume": 23202.8188,
+      "change_percent": -9.592584608751892
+    },
+    {
+      "symbol": "RAREUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05421,
+      "volume": 23160.37705,
+      "change_percent": -10.603562005277043
+    },
+    {
+      "symbol": "DUSKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.06902,
+      "volume": 22785.93687,
+      "change_percent": -7.727272727272736
+    },
+    {
+      "symbol": "ZILUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01168,
+      "volume": 22637.405,
+      "change_percent": -6.335204490777873
+    },
+    {
+      "symbol": "REDUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3564,
+      "volume": 22519.0534,
+      "change_percent": -7.356381596048868
+    },
+    {
+      "symbol": "AEVOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.10297,
+      "volume": 22460.30968,
+      "change_percent": -9.004948745139616
+    },
+    {
+      "symbol": "WAXPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.02244,
+      "volume": 21919.223,
+      "change_percent": -4.061564771269771
+    },
+    {
+      "symbol": "HIGHUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.5896,
+      "volume": 21856.1784,
+      "change_percent": -7.528230865746539
+    },
+    {
+      "symbol": "MERLUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.11452,
+      "volume": 21736.07944,
+      "change_percent": -3.170711084805955
+    },
+    {
+      "symbol": "1000000BOBUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05952,
+      "volume": 21734.7613,
+      "change_percent": -4.477611940298497
+    },
+    {
+      "symbol": "OXTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05724,
+      "volume": 21381.22466,
+      "change_percent": -8.062961773209128
+    },
+    {
+      "symbol": "ACEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.5634,
+      "volume": 21191.2108,
+      "change_percent": -6.303010144686502
+    },
+    {
+      "symbol": "10000COQUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.007115,
+      "volume": 20811.6569,
+      "change_percent": -16.977829638273043
+    },
+    {
+      "symbol": "TNSRUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1382,
+      "volume": 20501.972,
+      "change_percent": -7.310529845741128
+    },
+    {
+      "symbol": "AIDOGEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.059e-10,
+      "volume": 20325.87,
+      "change_percent": -13.832384052074861
+    },
+    {
+      "symbol": "MANTAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2287,
+      "volume": 19937.58341,
+      "change_percent": -8.884462151394427
+    },
+    {
+      "symbol": "ALEOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3162,
+      "volume": 19918.8234,
+      "change_percent": -0.31525851197982374
+    },
+    {
+      "symbol": "IOTXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.02259,
+      "volume": 19768.28319,
+      "change_percent": -4.763912310286688
+    },
+    {
+      "symbol": "XVGUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0067919,
+      "volume": 19568.9887071,
+      "change_percent": -8.02491705599566
+    },
+    {
+      "symbol": "HOOKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1112,
+      "volume": 18867.98088,
+      "change_percent": -10.394842868654317
+    },
+    {
+      "symbol": "SKATEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.04245,
+      "volume": 18346.0687,
+      "change_percent": -3.368996130207137
+    },
+    {
+      "symbol": "DODOXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.044916,
+      "volume": 18331.669617,
+      "change_percent": -7.811666187759131
+    },
+    {
+      "symbol": "TRUUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.03433,
+      "volume": 18174.82184,
+      "change_percent": -7.615715823466091
+    },
+    {
+      "symbol": "FUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.008583,
+      "volume": 17856.8403,
+      "change_percent": -4.154103852596305
+    },
+    {
+      "symbol": "POWRUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1779,
+      "volume": 17467.1847,
+      "change_percent": -6.6141732283464565
+    },
+    {
+      "symbol": "KOMAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.02294,
+      "volume": 17317.7204,
+      "change_percent": -9.86247544204323
+    },
+    {
+      "symbol": "LUNCUSDT.P",
+      "exchange": "BINANCE",
+      "price": 6.029e-05,
+      "volume": 17311.4232,
+      "change_percent": -5.870413739266195
+    },
+    {
+      "symbol": "NMRUSDT.P",
+      "exchange": "BINANCE",
+      "price": 8.925,
+      "volume": 16862.5029,
+      "change_percent": -2.3202364014446726
+    },
+    {
+      "symbol": "PERPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.2831,
+      "volume": 16206.8355,
+      "change_percent": -7.544088830829526
+    },
+    {
+      "symbol": "CELOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.337,
+      "volume": 16082.638,
+      "change_percent": -7.671232876712321
+    },
+    {
+      "symbol": "CLOUDUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.09299,
+      "volume": 16043.2346,
+      "change_percent": 6.2014618547281914
+    },
+    {
+      "symbol": "RLCUSDT.P",
+      "exchange": "BINANCE",
+      "price": 1.0415,
+      "volume": 16042.35649,
+      "change_percent": -4.998631761379181
+    },
+    {
+      "symbol": "EPTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.004203,
+      "volume": 16029.0879,
+      "change_percent": -4.412099158517164
+    },
+    {
+      "symbol": "SFPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.4833,
+      "volume": 15912.4444,
+      "change_percent": -6.009334889148188
+    },
+    {
+      "symbol": "DOGSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0001432,
+      "volume": 15228.2613,
+      "change_percent": -10.163111668757834
+    },
+    {
+      "symbol": "AWEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05438,
+      "volume": 15176.3277,
+      "change_percent": -6.8293184388171255
+    },
+    {
+      "symbol": "TOKENUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01677,
+      "volume": 14856.03813,
+      "change_percent": -8.159912376779838
+    },
+    {
+      "symbol": "OSMOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1809,
+      "volume": 14768.78,
+      "change_percent": -6.800618238021633
+    },
+    {
+      "symbol": "HEIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3779,
+      "volume": 14649.0498,
+      "change_percent": -9.41994247363375
+    },
+    {
+      "symbol": "LAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.338,
+      "volume": 14446.062,
+      "change_percent": -6.111111111111101
+    },
+    {
+      "symbol": "STEEMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.14149,
+      "volume": 14197.96645,
+      "change_percent": -5.534784350380552
+    },
+    {
+      "symbol": "POLYXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.151,
+      "volume": 13843.55949,
+      "change_percent": -6.674907292954267
+    },
+    {
+      "symbol": "ALUUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.006047,
+      "volume": 13780.14948,
+      "change_percent": -2.2312045270816507
+    },
+    {
+      "symbol": "1000WHYUSDT.P",
+      "exchange": "BINANCE",
+      "price": 3.03e-05,
+      "volume": 12709.725,
+      "change_percent": -10.61946902654866
+    },
+    {
+      "symbol": "SYSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.04688,
+      "volume": 12455.7227,
+      "change_percent": -4.501935221022619
+    },
+    {
+      "symbol": "MILKUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.04804,
+      "volume": 11611.2847,
+      "change_percent": -1.9191506737443922
+    },
+    {
+      "symbol": "FHEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05245,
+      "volume": 11490.8923,
+      "change_percent": -4.514837065355913
+    },
+    {
+      "symbol": "SLPUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.002065,
+      "volume": 11371.48806,
+      "change_percent": -3.774464119291701
+    },
+    {
+      "symbol": "DFUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.03035,
+      "volume": 10775.0422,
+      "change_percent": -5.891472868217062
+    },
+    {
+      "symbol": "ZKJUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1595,
+      "volume": 10738.7418,
+      "change_percent": -3.799758745476477
+    },
+    {
+      "symbol": "SCAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1148,
+      "volume": 10102.372,
+      "change_percent": -2.1312872975277086
+    },
+    {
+      "symbol": "XCHUSDT.P",
+      "exchange": "BINANCE",
+      "price": 9.69,
+      "volume": 10072.14756,
+      "change_percent": -7.317073170731712
+    },
+    {
+      "symbol": "BICOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1144,
+      "volume": 10026.41941,
+      "change_percent": -7.037217617422396
+    },
+    {
+      "symbol": "CTSIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0698,
+      "volume": 9831.899,
+      "change_percent": -6.933333333333329
+    },
+    {
+      "symbol": "ALPHAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01425,
+      "volume": 9342.04957,
+      "change_percent": -9.351145038167944
+    },
+    {
+      "symbol": "AGIUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.05925,
+      "volume": 9282.9881,
+      "change_percent": -8.324307597091149
+    },
+    {
+      "symbol": "ACXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1747,
+      "volume": 9268.4501,
+      "change_percent": -8.9155370177268
+    },
+    {
+      "symbol": "ONGUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.18623,
+      "volume": 9137.23784,
+      "change_percent": -7.660650535501781
+    },
+    {
+      "symbol": "B2USDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3636,
+      "volume": 8896.8516,
+      "change_percent": -8.228167592125194
+    },
+    {
+      "symbol": "PUNDIXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.325,
+      "volume": 8800.7887,
+      "change_percent": -4.80374926772114
+    },
+    {
+      "symbol": "BANDUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.7224,
+      "volume": 8343.8181,
+      "change_percent": -5.506867233485928
+    },
+    {
+      "symbol": "C98USDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0542,
+      "volume": 8147.9992,
+      "change_percent": -10.413223140495868
+    },
+    {
+      "symbol": "SAFEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.4747,
+      "volume": 8016.4127,
+      "change_percent": -7.103718199608611
+    },
+    {
+      "symbol": "HOTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.001019,
+      "volume": 7717.60665,
+      "change_percent": -7.1948998178506445
+    },
+    {
+      "symbol": "TAIKOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.4825,
+      "volume": 7459.2074,
+      "change_percent": -6.781298299845434
+    },
+    {
+      "symbol": "GODSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.11339,
+      "volume": 7264.5067,
+      "change_percent": -4.1909590198563516
+    },
+    {
+      "symbol": "GTCUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.287,
+      "volume": 6641.2174,
+      "change_percent": -7.717041800643094
+    },
+    {
+      "symbol": "ORDERUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1081,
+      "volume": 6455.307,
+      "change_percent": -3.04932735426009
+    },
+    {
+      "symbol": "MASAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01708,
+      "volume": 6292.129,
+      "change_percent": -12.410256410256402
+    },
+    {
+      "symbol": "SPECUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.581,
+      "volume": 6273.1202,
+      "change_percent": -10.889570552147248
+    },
+    {
+      "symbol": "SCRUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.3089,
+      "volume": 6103.4814,
+      "change_percent": -8.582420834566431
+    },
+    {
+      "symbol": "1000RATSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.01908,
+      "volume": 6072.24297,
+      "change_percent": -7.243558580456984
+    },
+    {
+      "symbol": "10000SATSUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0004286,
+      "volume": 5407.3541611,
+      "change_percent": -9.291005291005288
+    },
+    {
+      "symbol": "LEVERUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.000183,
+      "volume": 5384.956505,
+      "change_percent": -7.4823053589484365
+    },
+    {
+      "symbol": "ICXUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.13988,
+      "volume": 5376.75747,
+      "change_percent": -6.597222222222222
+    },
+    {
+      "symbol": "RDNTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.02272,
+      "volume": 5342.26427,
+      "change_percent": -8.644953759549654
+    },
+    {
+      "symbol": "ROAMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0983,
+      "volume": 5276.047,
+      "change_percent": -2.769535113748761
+    },
+    {
+      "symbol": "CELRUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.00778,
+      "volume": 5262.06647,
+      "change_percent": -8.685446009389675
+    },
+    {
+      "symbol": "ASTRUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.025005,
+      "volume": 4926.685407,
+      "change_percent": -6.965063065074234
+    },
+    {
+      "symbol": "FLMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.03102,
+      "volume": 4631.80025,
+      "change_percent": -7.760927743086533
+    },
+    {
+      "symbol": "SOSOUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.5394,
+      "volume": 4146.3878,
+      "change_percent": -4.174809024693546
+    },
+    {
+      "symbol": "MOBILEUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0004571,
+      "volume": 4107.3091,
+      "change_percent": -2.641107561235352
+    },
+    {
+      "symbol": "EDUUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1369,
+      "volume": 3919.7194,
+      "change_percent": -6.807351940095309
+    },
+    {
+      "symbol": "CHRUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0949,
+      "volume": 3846.591,
+      "change_percent": -9.532888465204953
+    },
+    {
+      "symbol": "JSTUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.03648,
+      "volume": 3597.61025,
+      "change_percent": -2.250803858520902
+    },
+    {
+      "symbol": "MYRIAUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0010297,
+      "volume": 3478.1139488,
+      "change_percent": -10.460869565217395
+    },
+    {
+      "symbol": "STGUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.1674,
+      "volume": 3165.093,
+      "change_percent": -6.636921360847739
+    },
+    {
+      "symbol": "SKLUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.02134,
+      "volume": 2527.25339,
+      "change_percent": -7.778738115816765
+    },
+    {
+      "symbol": "TLMUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.005204,
+      "volume": 1448.328191,
+      "change_percent": -7.451538324737686
+    },
+    {
+      "symbol": "NKNUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0286,
+      "volume": 1395.98252,
+      "change_percent": -7.712165214585349
+    },
+    {
+      "symbol": "1000XECUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.02205,
+      "volume": 1172.64081,
+      "change_percent": -6.488549618320611
+    },
+    {
+      "symbol": "TUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0173,
+      "volume": 710.20138,
+      "change_percent": -8.368644067796618
+    },
+    {
+      "symbol": "USTCUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.013743,
+      "volume": 600.114287,
+      "change_percent": -6.376456161863883
+    },
+    {
+      "symbol": "NTRNUSDT.P",
+      "exchange": "BINANCE",
+      "price": 0.0973,
+      "volume": 531.7129,
+      "change_percent": -8.46660395108185
+    }
+  ]
+}

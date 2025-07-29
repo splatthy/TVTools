@@ -1,0 +1,22 @@
+# Core dependencies
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+
+# TradingView integration
+tradingview-ta>=3.3.0
+websocket-client>=1.6.0
+
+# Technical analysis
+ta>=0.10.2
+scipy>=1.11.0
+
+# Data handling
+pydantic>=2.0.0
+aiohttp>=3.8.0
+
+# Development tools
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
