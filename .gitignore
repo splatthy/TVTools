@@ -1,2 +1,34 @@
+# Environment and secrets
 .env
+
+# Python
 *.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.spec
+TVTools_Distribution/
+
+# Generated files
+watchlist_files/
+*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
