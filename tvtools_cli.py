@@ -53,10 +53,10 @@ def generate_files(output_dir="watchlist_files", min_change=5.0):
     blofin_file = f"{output_dir}/blofin_perpetuals_{timestamp}.txt"
 
     with open(blofin_file, "w") as f:
-        f.write("# Blofin Perpetual Pairs\n")
-        f.write(f"# Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write(f"# Total symbols: {len(blofin_symbols)}\n\n")
         for symbol in blofin_symbols:
+            # Add BLOFIN: prefix if not already present
+            if not symbol.startswith("BLOFIN:"):
+                symbol = f"BLOFIN:{symbol}"
             f.write(f"{symbol}\n")
 
     files_created.append(blofin_file)
@@ -72,17 +72,15 @@ def generate_files(output_dir="watchlist_files", min_change=5.0):
         high_change_file = f"{output_dir}/high_change_symbols_{timestamp}.txt"
 
         with open(high_change_file, "w") as f:
-            f.write(f"# High Change Symbols (>{min_change}%)\n")
-            f.write(f"# Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-            f.write(f"# Total symbols: {len(high_change)}\n\n")
-
             # Sort by change percentage (highest first)
             high_change.sort(key=lambda x: x["change_percent"], reverse=True)
 
             for item in high_change:
                 symbol = item["symbol"]
-                change = item["change_percent"]
-                f.write(f"{symbol}  # {change:+.2f}%\n")
+                # Add BLOFIN: prefix if not already present
+                if not symbol.startswith("BLOFIN:"):
+                    symbol = f"BLOFIN:{symbol}"
+                f.write(f"{symbol}\n")
 
         files_created.append(high_change_file)
         print(f"✅ Created: {high_change_file}")
