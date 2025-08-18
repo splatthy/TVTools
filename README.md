@@ -28,11 +28,14 @@ chmod +x setup.sh
 # Activate environment
 source venv/bin/activate
 
-# Generate files (basic usage)
-python tvtools_cli.py
+# Simple usage - generates all files
+python tvtools_simple.py
 
-# Custom options
+# Advanced usage with command line options
 python tvtools_cli.py -o my_watchlists -c 10  # Custom output dir, 10% change threshold
+
+# Run tests
+python tests/run_tests.py
 ```
 
 ### Import to TradingView
