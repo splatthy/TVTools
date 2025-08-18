@@ -1,0 +1,25 @@
+HOW TO IMPORT INTO TRADINGVIEW
+==================================================
+
+Generated: 2025-08-18 15:49:06
+
+STEP-BY-STEP INSTRUCTIONS:
+1. Open TradingView.com in your browser
+2. Go to the Chart page
+3. Look for the Watchlist panel (usually on the right side)
+4. Click the watchlist dropdown (shows current list name)
+5. Select 'Import list...'
+6. Choose one of the .txt files generated above
+7. Give your watchlist a name (e.g., 'Blofin Perpetuals')
+8. Click Import
+
+FILES GENERATED:
+1. blofin_perpetuals_20250818_154906.txt
+2. high_change_symbols_20250818_154906.txt
+
+NOTES:
+- Import creates NEW watchlists (doesn't replace existing ones)
+- To update an existing list: delete it first, then import
+- Files contain one symbol per line
+- Lines starting with # are comments and ignored
+- Run this tool again anytime to get fresh data
